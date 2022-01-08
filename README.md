@@ -1,5 +1,6 @@
 # pandemic
 map / stat tracker
+https://www.freecodecamp.org/news/8-reactjs-project-ideas-to-start-learning-by-doing/#map-statistics-dashboard
 
 -----------------------------------------
 
